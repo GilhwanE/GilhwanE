@@ -23,11 +23,9 @@ I'm studying to be a front-end developer. Thank you!
 #### 🛠 Technical Stack
 HTML CSS JavaScript java React GitHub 
 
-![GilHwanE's github stats](https://github-readme-stats.vercel.app/api?username=GilHwanE&show_icons=true)
-
-
-
 
 #### 👀 [Notion]: (https://www.notion.so/Studying-775c3685406443279e4f31a836c64fb7)
 #### 📞 Phone : +82) 010-4175-3679
 #### ✉️ Email : dyghks123@gmail.com / dhrhddleka@naver.com
+
+![GilHwanE's github stats](https://github-readme-stats.vercel.app/api?username=GilHwanE&show_icons=true)
