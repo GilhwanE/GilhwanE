@@ -23,7 +23,6 @@ Python Java C C++ Linux Window GitHub Ruby Socket.IO HTML CSS PHP
 
 MySQL Arduino OpenCV Android Flask Keras Tensorflow Pytorch
 
-## 👀 Curriculum Vitae : https://www.notion.so/
-## 💎 BLOG : naver- velog
-## 📞 Phone : +82) 010-4175-3679
-## ✉️ Email : dyghks123@gmail.com / dhrhddleka@naver.com
+### 👀 Notion: https://www.notion.so/Github-abaa8478c49d41a8bd05c43d7f5fa2d6
+### 📞 Phone : +82) 010-4175-3679
+### ✉️ Email : dyghks123@gmail.com / dhrhddleka@naver.com
