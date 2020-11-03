@@ -16,13 +16,15 @@ Here are some ideas to get you started:
 -->
 
 ✨ About Me
-Hi, I'm Gil Hwan Kim👋. I'm master's degree in Computer Vision and Machine Learning Lab of Chung-Ang University.
-I'm working on Low Level vision (GAN, Low-light Image Enhancement, RAW to RGB, Super-Resolution)
+Hi, I'm Gil Hwan Kim👋. I majored in computer engineering at Daejeon University.
+I am currently preparing to get a job.
+I'm studying to be a front-end developer. Thank you!
+
 🛠 Technical Stack
-Python Java C C++ Linux Window GitHub Ruby Socket.IO HTML CSS PHP
+HTML CSS JavaScript React GitHub
 
 MySQL Arduino OpenCV Android Flask Keras Tensorflow Pytorch
 
-### 👀 Notion: https://www.notion.so/Github-abaa8478c49d41a8bd05c43d7f5fa2d6
+### 👀 Notion: https://www.notion.so/programming-775c3685406443279e4f31a836c64fb7
 ### 📞 Phone : +82) 010-4175-3679
 ### ✉️ Email : dyghks123@gmail.com / dhrhddleka@naver.com
