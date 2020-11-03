@@ -21,9 +21,7 @@ I am currently preparing to get a job.
 I'm studying to be a front-end developer. Thank you!
 
 🛠 Technical Stack
-HTML CSS JavaScript React GitHub
-
-MySQL Arduino OpenCV Android Flask Keras Tensorflow Pytorch
+HTML CSS JavaScript java React GitHub 
 
 ### 👀 Notion: https://www.notion.so/programming-775c3685406443279e4f31a836c64fb7
 ### 📞 Phone : +82) 010-4175-3679
