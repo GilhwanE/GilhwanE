@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### ✨ About Me
 Hi, I'm Gil Hwan Kim. 😄</br>
 I majored in computer engineering at Daejeon University.</br>
-I am currently preparing to get a job.</br>
+I'm currently preparing to get a job.</br>
 I'm studying to be a front-end developer. Thank you!
 
 #### 🛠 Technical Stack
