@@ -22,6 +22,7 @@ I majored in computer engineering at Daejeon University.</br>
 I'm currently preparing to get a job.</br>
 I'm studying to be a front-end developer. Thank you!
 <hr>
+
 #### 🛠 Technical Stack
 <div align=left>
 <code><img height="25" src="https://user-images.githubusercontent.com/47877911/88288770-3421aa80-cd2f-11ea-9972-ab7e1ac2b89d.png"></code>
