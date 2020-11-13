@@ -1,4 +1,5 @@
 ### Hi there 👋
+<hr>
 
 <!--
 **GilhwanE/GilhwanE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +21,7 @@ Hi, I'm Gil Hwan Kim. 😄</br>
 I majored in computer engineering at Daejeon University.</br>
 I'm currently preparing to get a job.</br>
 I'm studying to be a front-end developer. Thank you!
-
+<hr>
 #### 🛠 Technical Stack
 <div align=left>
 <code><img height="25" src="https://user-images.githubusercontent.com/47877911/88288770-3421aa80-cd2f-11ea-9972-ab7e1ac2b89d.png"></code>
@@ -29,7 +30,7 @@ I'm studying to be a front-end developer. Thank you!
 <code><img height="25" src="https://user-images.githubusercontent.com/47877911/88288382-aa71dd00-cd2e-11ea-8fc2-a1f7ae93de63.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 </div>
-
+<hr>
 #### 👀 Notion: https://www.notion.so/Studying-775c3685406443279e4f31a836c64fb7
 #### 📞 Phone : +82) 010-4175-3679
 #### ✉️ Email : dyghks123@gmail.com / dhrhddleka@naver.com
