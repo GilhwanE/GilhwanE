@@ -34,7 +34,7 @@ I'm studying to be a front-end developer. Thank you!
 
 <hr>
 
-#### 👀 Notion: https://www.notion.so/Studying-775c3685406443279e4f31a836c64fb7
+#### 👀 Notion: https://www.notion.so/Studying-775c3685406443279e4f31a836c64fb7 
 #### 📞 Phone : +82) 010-4175-3679
 #### ✉️ Email : dyghks123@gmail.com / dhrhddleka@naver.com
 
