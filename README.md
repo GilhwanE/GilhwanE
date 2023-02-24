@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 Hi, I'm Gil Hwan Kim. 😄</br>
 I majored in computer engineering at Daejeon University.</br>
 I'm currently preparing to get a job.</br>
-I'm studying to be a front-end developer. Thank you!
+I'm studying to be a iOS developer. Thank you!
 <hr>
 
 #### 🛠 Technical Stack
